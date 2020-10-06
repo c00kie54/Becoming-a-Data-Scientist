@@ -7,15 +7,23 @@ Several folders will contain the the main things...
 1. GitHub
   - All GitHub commands and info.
 
-1. Python
+
+
+2. Python
   - Full walk through of becoming a pythonista (some areas need updating and completing but Basic and intermediate is good for now).
   
-2. IBM Data Science Course
+  
+  
+3. IBM Data Science Course
   - The useful information from the course.
   - Final project.
 
-3. Machine Learning
+
+
+4. Machine Learning
   -Notes from Machine Learning by Andrew Ng.
 
-4. Projects
+
+
+5. Projects
   - Contains projects where I have implemented 
