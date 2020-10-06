@@ -14,16 +14,21 @@ Several folders will contain the the main things...
   
   
   
-3. IBM Data Science Course
+3. SQL 
+  - SQL Learning
+  
+  
+  
+4. IBM Data Science Course
   - The useful information from the course.
   - Final project.
 
 
 
-4. Machine Learning
+5. Machine Learning
   -Notes from Machine Learning by Andrew Ng.
 
 
 
-5. Projects
+6. Projects
   - Contains projects where I have implemented 
