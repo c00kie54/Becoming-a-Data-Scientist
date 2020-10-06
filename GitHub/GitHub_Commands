@@ -101,4 +101,13 @@ git push origin <branch>
 Pushes the branch from the local repo to the remote repo.
 
 
+Below is linking a git repo to terminal by SSH.
 
+git config --global user.name "Your name here"
+git config --global user.email "your_email@example.com"
+
+ssh-keygen -t rsa -C "your_email@example.com"
+
+pbcopy < ~/.ssh/id_rsa.pub
+
+ssh -T git@github.com
